@@ -1,0 +1,5 @@
+copy model.pkl and vectorizer.pkl files
+pip install streamlit
+pip install nltk
+pip install scikit-learn
+streamlit run web.py
